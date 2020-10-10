@@ -1,0 +1,170 @@
+2020-10-07 20:04:29 DEBUG Main:36 - Log4j appender configuration is successful !!
+2020-10-07 20:05:05 INFO  Main:36 - Log4j appender configuration is successful !!
+2020-10-10 00:29:00 INFO  Main:39 - start Log4j 
+2020-10-10 00:29:00 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:30:38 INFO  Main:39 - start Log4j 
+2020-10-10 00:30:38 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:31:02 INFO  Main:39 - start Log4j 
+2020-10-10 00:31:02 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:31:08 INFO  Main:39 - start Log4j 
+2020-10-10 00:31:08 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:31:30 INFO  Main:39 - start Log4j 
+2020-10-10 00:31:30 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:32:08 INFO  Main:39 - start Log4j 
+2020-10-10 00:32:08 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:33:16 INFO  Main:39 - start Log4j 
+2020-10-10 00:33:19 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:33:45 INFO  Main:39 - start Log4j 
+2020-10-10 00:33:45 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:34:08 INFO  Main:39 - start Log4j 
+2020-10-10 00:34:16 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:35:16 INFO  Main:39 - start Log4j 
+2020-10-10 00:35:16 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:35:44 INFO  Main:39 - start Log4j 
+2020-10-10 00:35:44 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:36:00 INFO  Main:39 - start Log4j 
+2020-10-10 00:36:00 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:36:44 INFO  Main:39 - start Log4j 
+2020-10-10 00:36:44 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:38:32 INFO  Main:39 - start Log4j 
+2020-10-10 00:38:32 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:39:06 INFO  Main:39 - start Log4j 
+2020-10-10 00:39:06 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:39:39 INFO  Main:39 - start Log4j 
+2020-10-10 00:39:39 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:39:43 INFO  Main:39 - start Log4j 
+2020-10-10 00:39:43 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:40:17 INFO  Main:39 - start Log4j 
+2020-10-10 00:40:17 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:41:25 INFO  Main:39 - start Log4j 
+2020-10-10 00:41:25 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:44:54 INFO  Main:39 - start Log4j 
+2020-10-10 00:44:54 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:44:54 INFO  Main:54 - bookDAO create
+2020-10-10 00:45:33 INFO  Main:39 - start Log4j 
+2020-10-10 00:45:33 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:45:33 INFO  Main:54 - bookDAO create
+2020-10-10 00:45:33 INFO  Main:57 - books are sorted
+2020-10-10 00:45:33 INFO  Main:59 - book is found
+2020-10-10 00:46:26 INFO  Main:39 - start Log4j 
+2020-10-10 00:46:26 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:46:26 INFO  Main:54 - bookDAO create
+2020-10-10 00:46:26 INFO  Main:57 - books are sorted
+2020-10-10 00:46:26 INFO  Main:59 - book is found
+2020-10-10 00:46:26 INFO  Main:63 - surched book
+2020-10-10 00:46:26 INFO  Main:64 - Book{titel='NINE PRINCES IN AMBER', autor='ZELAZNY', publisher='ROSMAN', length=132}
+2020-10-10 00:46:26 INFO  Main:65 - sorted books :
+2020-10-10 00:46:26 INFO  Main:69 - Book{titel='HAMLET', autor='Shekspir', publisher='ROSMAN', length=34}
+2020-10-10 00:46:26 INFO  Main:69 - Book{titel='HARRY POTTER', autor='ROULING', publisher='ROSMAN', length=642}
+2020-10-10 00:46:26 INFO  Main:69 - Book{titel='LOTR', autor='TOLKIEN', publisher='HERPER COLINES', length=352}
+2020-10-10 00:46:26 INFO  Main:69 - Book{titel='Lir King', autor='Shekspir', publisher='HERPER COLINES', length=43}
+2020-10-10 00:46:26 INFO  Main:69 - Book{titel='NINE PRINCES IN AMBER', autor='ZELAZNY', publisher='ROSMAN', length=132}
+2020-10-10 00:46:26 INFO  Main:72 - end of program and Log4j 
+2020-10-10 00:48:17 INFO  Main:39 - start Log4j 
+2020-10-10 00:48:17 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:48:17 INFO  Main:54 - bookDAO create
+2020-10-10 00:48:17 INFO  Main:57 - books are sorted
+2020-10-10 00:48:17 INFO  Main:59 - book is found
+2020-10-10 00:48:17 INFO  Main:63 - surched book
+2020-10-10 00:48:17 INFO  Main:64 - titel: NINE PRINCES IN AMBER
+autor: ZELAZNY
+publisher: ROSMAN
+length: 132
+2020-10-10 00:48:17 INFO  Main:65 - sorted books :
+2020-10-10 00:48:17 INFO  Main:69 - titel: HAMLET
+autor: Shekspir
+publisher: ROSMAN
+length: 34
+2020-10-10 00:48:17 INFO  Main:69 - titel: HARRY POTTER
+autor: ROULING
+publisher: ROSMAN
+length: 642
+2020-10-10 00:48:17 INFO  Main:69 - titel: LOTR
+autor: TOLKIEN
+publisher: HERPER COLINES
+length: 352
+2020-10-10 00:48:17 INFO  Main:69 - titel: Lir King
+autor: Shekspir
+publisher: HERPER COLINES
+length: 43
+2020-10-10 00:48:17 INFO  Main:69 - titel: NINE PRINCES IN AMBER
+autor: ZELAZNY
+publisher: ROSMAN
+length: 132
+2020-10-10 00:48:17 INFO  Main:72 - end of program and Log4j 
+2020-10-10 00:48:48 INFO  Main:39 - start Log4j 
+2020-10-10 00:48:49 INFO  Main:44 - init DataAcquirer 
+2020-10-10 00:48:51 INFO  Main:54 - bookDAO create
+2020-10-10 00:48:53 INFO  Main:57 - books are sorted
+2020-10-10 00:48:53 INFO  Main:59 - book is found
+2020-10-10 00:48:54 INFO  Main:63 - surched book
+2020-10-10 00:48:54 INFO  Main:64 - titel: NINE PRINCES IN AMBER
+autor: ZELAZNY
+publisher: ROSMAN
+length: 132
+
+2020-10-10 00:48:54 INFO  Main:65 - sorted books :
+2020-10-10 00:48:54 INFO  Main:69 - titel: HAMLET
+autor: Shekspir
+publisher: ROSMAN
+length: 34
+
+2020-10-10 00:48:54 INFO  Main:69 - titel: HARRY POTTER
+autor: ROULING
+publisher: ROSMAN
+length: 642
+
+2020-10-10 00:48:54 INFO  Main:69 - titel: LOTR
+autor: TOLKIEN
+publisher: HERPER COLINES
+length: 352
+
+2020-10-10 00:48:54 INFO  Main:69 - titel: Lir King
+autor: Shekspir
+publisher: HERPER COLINES
+length: 43
+
+2020-10-10 00:48:54 INFO  Main:69 - titel: NINE PRINCES IN AMBER
+autor: ZELAZNY
+publisher: ROSMAN
+length: 132
+
+2020-10-10 00:48:54 INFO  Main:72 - end of program and Log4j 
+2020-10-10 09:22:57 INFO  Main:40 - start Log4j 
+2020-10-10 09:22:57 INFO  Main:45 - init DataAcquirer 
+2020-10-10 09:22:57 INFO  Main:63 - bookDAO create
+2020-10-10 09:22:57 INFO  Main:66 - books are sorted
+2020-10-10 09:22:57 INFO  Main:68 - book is found
+2020-10-10 09:22:57 INFO  Main:72 - surched book
+2020-10-10 09:22:57 INFO  Main:73 - titel: NINE PRINCES IN AMBER
+autor: ZELAZNY
+publisher: ROSMAN
+length: 132
+
+2020-10-10 09:22:57 INFO  Main:74 - sorted books :
+2020-10-10 09:22:57 INFO  Main:78 - titel: HAMLET
+autor: Shekspir
+publisher: ROSMAN
+length: 34
+
+2020-10-10 09:22:57 INFO  Main:78 - titel: HARRY POTTER
+autor: ROULING
+publisher: ROSMAN
+length: 642
+
+2020-10-10 09:22:57 INFO  Main:78 - titel: LOTR
+autor: TOLKIEN
+publisher: HERPER COLINES
+length: 352
+
+2020-10-10 09:22:57 INFO  Main:78 - titel: Lir King
+autor: Shekspir
+publisher: HERPER COLINES
+length: 43
+
+2020-10-10 09:22:57 INFO  Main:78 - titel: NINE PRINCES IN AMBER
+autor: ZELAZNY
+publisher: ROSMAN
+length: 132
+
+2020-10-10 09:22:57 INFO  Main:81 - end of program and Log4j 
